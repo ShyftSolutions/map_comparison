@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceExceptionReport version="1.3.0">
+  <ServiceException code="InvalidDimensionValue">Failed to apply value '2024-08-29T12:00:00Z' to layer 'NCODA_Sea_Surface_Temperature_and_GALWEM_Temp_Winds' dimension 'RUN': Unable to select run 't2024,8,29,12,0,0'</ServiceException>
+</ServiceExceptionReport>

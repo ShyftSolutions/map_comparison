@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceExceptionReport version="1.3.0">
+  <ServiceException code="InvalidDimensionValue">Failed to apply value 'PT12H' to layer 'HRRR_Precip_12hr' dimension 'FORECAST': Unable to select frame '2024-08-30T03:00:00Z'</ServiceException>
+</ServiceExceptionReport>
